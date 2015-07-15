@@ -11,7 +11,7 @@ downloads/
 bin/
 var/
 etc/
-arrak.org.egg-info/
+mlhamel.base.egg-info/
 .ropeproject/config.py.hg/
 .ropeproject/
 .hg/
