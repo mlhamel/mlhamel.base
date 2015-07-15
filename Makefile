@@ -31,3 +31,12 @@ do-docker-tag:
 
 do-docker-push:
 	docker push $(repos)
+
+
+# Version Bump using bumpversion
+patch:
+	bumpversion patch
+major:
+	bumpversion major
+minor:
+	bumpversion minor
