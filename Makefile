@@ -3,7 +3,7 @@ ifndef message
 endif
 
 ifndef repos
-	repos = mlhamel/mlhamel.base
+	repos = mlhamel/mlhamel.base:latest
 endif
 
 .SHELLFLAGS = -e
